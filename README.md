@@ -3,7 +3,7 @@
 ## An AI-Powered Cybersecurity Assistant for Detecting Phishing Emails
 
 🔗 **Live Application:**  
-(Add your Vercel URL here)
+ai-phishing-detector-jxa6.vercel.app
 
 🔗 **GitHub Repository:**  
 https://github.com/MuhammadShoaib0101/AI-Phishing-Detector
