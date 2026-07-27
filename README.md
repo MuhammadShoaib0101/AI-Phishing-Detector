@@ -306,12 +306,12 @@ Responsibilities:
 ![home](Screenshots/home.png)
 
 
-## Email Analysis Result
+## Email Analysis in progress 
 
 ![analyzing](Screenshots/analyzing.png)
 
 
-## Security Recommendation Output
+## Analysis Report
 
 ![result](Screenshots/result.png)
 
