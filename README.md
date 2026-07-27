@@ -303,17 +303,17 @@ Responsibilities:
 
 ## Home Page
 
-(screenshots/home.png)
+![home](screenshots/home.png)
 
 
 ## Email Analysis Result
 
-![Analysis Result](screenshots/analyzing.png)
+![analyzing](screenshots/analyzing.png)
 
 
 ## Security Recommendation Output
 
-![Security Report](screenshots/result.png)
+![result](screenshots/result.png)
 
 
 ---
