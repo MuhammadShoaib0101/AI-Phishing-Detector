@@ -79,10 +79,6 @@ The application helps them identify fake messages.
 
 Anyone who receives suspicious emails can use the tool before clicking links or sharing information.
 
-### Cybersecurity Beginners
-
-The application also helps beginners learn how phishing attacks work.
-
 ---
 
 # ✨ Main Features
