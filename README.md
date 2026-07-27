@@ -303,7 +303,7 @@ Responsibilities:
 
 ## Home Page
 
-![Home Page](screenshots/home.png)
+(screenshots/home.png)
 
 
 ## Email Analysis Result
@@ -313,7 +313,7 @@ Responsibilities:
 
 ## Security Recommendation Output
 
-![Security Report](screenshots/result.png
+![Security Report](screenshots/result.png)
 
 
 ---
