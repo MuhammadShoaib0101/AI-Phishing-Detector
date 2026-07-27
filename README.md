@@ -408,7 +408,8 @@ Deployment process:
 
 Live version:
 
-(Add your Vercel URL here)
+    ai-phishing-detector-jxa6.vercel.app
+
 
 ---
 
