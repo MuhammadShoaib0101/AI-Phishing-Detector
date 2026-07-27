@@ -313,10 +313,7 @@ Responsibilities:
 
 ## Security Recommendation Output
 
-![Security Report](screenshots/result.png)
-
-
-*(Update screenshot filenames according to your actual files.)*
+![Security Report](screenshots/result.png
 
 
 ---
