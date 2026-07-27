@@ -308,12 +308,12 @@ Responsibilities:
 
 ## Email Analysis Result
 
-![Analysis Result](screenshots/result.png)
+![Analysis Result](screenshots/analyzing.png)
 
 
 ## Security Recommendation Output
 
-![Security Report](screenshots/report.png)
+![Security Report](screenshots/result.png)
 
 
 *(Update screenshot filenames according to your actual files.)*
